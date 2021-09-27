@@ -1,0 +1,29 @@
+.nv{
+    display: flex;
+    flex-direction: row;
+}
+.pg{
+    display: flex;
+    flex-direction: row;
+}
+.lk{
+    color: black;
+    padding-right: 10%;
+}
+
+.ct2{
+    width: 100%;
+    padding-right: 15px;
+    padding-left:0 !important;
+    margin-right: auto;
+    margin-left: auto !important;
+}
+.navbar{
+    position: relative;
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0.5rem 1rem ; 
+}

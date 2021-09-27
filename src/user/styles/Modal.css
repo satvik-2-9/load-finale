@@ -1,0 +1,24 @@
+.p{
+    display: flex;
+    flex-direction: row;
+}
+.inp2{
+    margin-left: 0 !important;
+    margin-top:4%;   
+    margin-bottom: 4%;
+}
+.g{
+    display: flex;
+    flex-direction: column;
+}
+.cross{
+    margin-left: 90%;
+}
+.pl{
+    display: flex;
+    flex-direction: column;
+}
+.cj{
+    display: flex;
+    flex-direction: row;
+}
